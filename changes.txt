@@ -1,4 +1,4 @@
-Ver 3.4.3
+Ver 3.4.0
 	-Started to add support for translations.
 	-Added support for poison reminder and buttons to apply
 Ver 1.13.7
